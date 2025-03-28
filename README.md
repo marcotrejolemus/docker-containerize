@@ -1,4 +1,4 @@
-# Welcome to this reposiory about how to Containerize a Java Application
+# Welcome to this repository about how to Containerize a Java Application
 A step by step guide to containerize a Java Application using Docker as container
 
 ## Prerequisites
