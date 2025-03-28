@@ -1,5 +1,5 @@
 # This file belongs to a Demo in an Oracle Cloud Environment is about the Commands of Docker
-
+#start of the workshop
 Welcome to Oracle Cloud Shell.
 
 Cloud Shell now runs on Oracle Linux 8. For more information, see the release notes. For help, contact Oracle Support.
@@ -474,3 +474,5 @@ root        3549        3543        0.000       626.471772ms       ?           0
 # marco_trej@cloudshell:~ (ca-montreal-1)$ docker exec -it a17eb7127a59 sh
 / #  (Ctrl +D to exit)
 # marco_trej@cloudshell:~ (ca-montreal-1)$
+## Thi is the end of the practice in where we can see the commands running over a n Oracle Cloud service
+# End of the workshop
